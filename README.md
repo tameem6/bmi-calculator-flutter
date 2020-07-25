@@ -1,1 +1,1 @@
-#A simple 2 page BMI Calculator
+A simple 2 page BMI Calculator
